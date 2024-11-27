@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:frontend/API/Pages/cartScreen.dart';  // Assuming CartScreen is in 'Pages' folder
+import 'package:frontend/Pages/cartScreen.dart';  // Assuming CartScreen is in 'Pages' folder
 import 'package:frontend/API/api.dart';
 import 'package:frontend/model/model.dart';
 
